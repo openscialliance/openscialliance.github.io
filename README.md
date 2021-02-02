@@ -1,1 +1,4 @@
-# openscigrad.github.io
+# Open Science @ UGA
+
+Main website.
+
