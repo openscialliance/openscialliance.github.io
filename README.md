@@ -1,4 +1,4 @@
 # Open Science @ UGA
 
-Main website.
+Main website.  Built w/ [StaticNinja](https://github.com/staticjinja/staticjinja)
 
